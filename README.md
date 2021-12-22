@@ -33,7 +33,7 @@ Performing data modeling, data wrangling and extract-load-transform on the COVID
 * **Storing the dimensional model into Redshift**
 
 **ER-Data Model**
-![image-5.png](attachment:dimensional_model.png)
+![image-5.png](ERmodel.png)
 
 **Dimension Model**
 ![image-6.png](attachment:ERmodel.png)
