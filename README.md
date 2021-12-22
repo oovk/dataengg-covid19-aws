@@ -36,4 +36,4 @@ Performing data modeling, data wrangling and extract-load-transform on the COVID
 ![image-5.png](ERmodel.png)
 
 **Dimension Model**
-![image-6.png](attachment:ERmodel.png)
+![image-6.png](dimensional_model.png)
