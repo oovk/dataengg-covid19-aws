@@ -12,7 +12,7 @@ Performing data modeling, data wrangling and extract-load-transform on the COVID
 * boto3 - aws python sdk for create, configure, and manage AWS services.
 
 **Architecture**
-![image.png](attachment:architecure.png)
+![image.png](../architecure.png)
 
 **Data Set:**
 [https://registry.opendata.aws/aws-covid19-lake/](https://registry.opendata.aws/aws-covid19-lake/)
