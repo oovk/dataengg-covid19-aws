@@ -1,4 +1,6 @@
 # dataengg-covid19-aws
+Refreshing the work I did in previous company.
+
 Data Engineering Project on COVID-19 DataLake by AWS
 
 Performing data modeling, data wrangling and extract-load-transform on the COVID-19 Data Lake available on registry of open data AWS using various AWS tools such as boto3, Glue, S3, Athena and Redshift.
